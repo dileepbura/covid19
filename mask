@@ -1,1 +1,2 @@
 ncinp 232
+gssg
